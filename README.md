@@ -91,4 +91,5 @@ For git alias purpose, I used only the global one.
 ## Enables how to work with our favourite code editor. I choose Atom.
 
 `git config --global core.editor "atom --wait"`
+
 `git config --global alias.dv 'difftool -t atom -y'`
