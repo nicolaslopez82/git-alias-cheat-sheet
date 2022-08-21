@@ -93,3 +93,8 @@ For git alias purpose, I used only the global one.
 `git config --global core.editor "atom --wait"`
 
 `git config --global alias.dv 'difftool -t atom -y'`
+
+
+---
+
+![git-flow](https://github.com/nicolaslopez82/git-alias-cheat-sheet/git-flow.png)
