@@ -101,7 +101,6 @@ For git alias purpose, I used only the global one.
 
 ---
 [atlassian-git-cheatsheet.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/atlassian-git-cheatsheet.pdf)
-![atlassian-git-cheatsheet.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/atlassian-git-cheatsheet.pdf)
 
 ---
 [Git-Tutorial.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/Git-Tutorial.pdf)
