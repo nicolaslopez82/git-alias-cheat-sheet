@@ -97,4 +97,4 @@ For git alias purpose, I used only the global one.
 
 ---
 
-![git-flow](https://github.com/nicolaslopez82/git-alias-cheat-sheet/git-flow.png)
+![git-flow](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/git-flow.png)
