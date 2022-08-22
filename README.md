@@ -1,5 +1,6 @@
 # Git Alias Cheat Sheet - nicolaslopez82
-
+---
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 `g` – `git`
 
 `gst` – `git status`
@@ -100,7 +101,7 @@ For git alias purpose, I used only the global one.
 ![git-flow](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/git-flow.png)
 
 ---
-[atlassian-git-cheatsheet.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/atlassian-git-cheatsheet.pdf)
+:green_circle: [Download -> atlassian-git-cheatsheet.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/atlassian-git-cheatsheet.pdf) :pirate_flag:
 
 ---
-[Git-Tutorial.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/Git-Tutorial.pdf)
+:green_circle: [Git-Tutorial.pdf](https://github.com/nicolaslopez82/git-alias-cheat-sheet/blob/master/Git-Tutorial.pdf) :octocat:
