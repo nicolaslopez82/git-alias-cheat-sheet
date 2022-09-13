@@ -1,0 +1,46 @@
+[user]
+	email = nicolaslopez82@gmail.com
+	name = nicolaslopez82
+[alias]
+	g = git
+	gst = git status
+	gpl = git pull
+	gplr = git pull --rebase
+	gp = git push
+	gd = git diff
+	gdc = git diff --cached
+	gdv = git diff -w "$@" | view -
+	gc = git commit -m
+	gamend = git commit --amend --no-edit
+	gco = git checkout
+	gcm = git checkout master
+	gr = git remote
+	grv = git remote -v
+	grbi = git rebase -i
+	grbc = git rebase --continue
+	grba = git rebase --abort
+	gb = git branch
+	gba = git branch -a
+	gcl = git config --list
+	gcp = git cherry-pick
+	gss = git status -s
+	ga = git add .
+	gm = git merge
+	grh = git reset HEAD
+	grhh = git reset HEAD --hard
+	gclean = git reset --hard && git clean -dfx
+	gwc = git whatchanged -p --abbrev-commit --pretty=medium
+	gsts = git stash show --text
+	gsta = git stash
+	gstp = git stash pop
+	gstd = git stash drop
+	ggpull = git pull origin $(current_branch)
+	ggpur = git pull --rebase origin $(current_branch)
+	ggpush = git push origin $(current_branch)
+	ggpnp = git pull origin $(current_branch) && git push origin $(current_branch)
+	glog = git log --oneline --decorate --color --graph
+	glogline = git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	gl = config --global -l
+	dv=difftool -t atom -y
+[core]
+	editor = atom --wait
